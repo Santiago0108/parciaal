@@ -105,5 +105,13 @@ Crear el achivo TarifasTest.java en el directorio src/test/java/edu/eci/cvds/tdd
 
 ![image](https://github.com/RichiVilla/LAB03---CVDS/assets/124943246/b5613882-4656-4462-aa66-b7396bb802ce)
 
+Ahora verificamos las pruebas.
+
+![image](https://github.com/RichiVilla/Laboratorio3/assets/124943246/35c37d4e-aa91-44a2-99da-7635353e5999)
+![image](https://github.com/RichiVilla/Laboratorio3/assets/124943246/5a1e03f9-df64-4a90-bfa5-2526358f18b7)
+
+
+
+
 
 
