@@ -21,6 +21,16 @@ public class edadTest {
     }
 
     @Test
+    public void testEsMenorLimite() {
+        assertTrue(ageCheker.isMinor(17));
+    }
+
+    @Test
+    public void testEsNoMenorLimite() {
+        assertFalse(ageCheker.isMinor(18));
+    }
+
+    @Test
     public void testEsNoMenorNegativo() {
         assertFalse(ageCheker.isMinor(-5));
     }
