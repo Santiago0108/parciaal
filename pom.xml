@@ -32,6 +32,12 @@
       <scope>system</scope>
       <systemPath>${basedir}/aerodescuentos-1.0.0.jar</systemPath>
     </dependency>
+  
+    <dependency>
+      <groupId>com.iyetoo.mpm</groupId>
+      <artifactId>lous-starter</artifactId>
+      <version>0.0.1</version>
+    </dependency>
   </dependencies>
 
   <build>
