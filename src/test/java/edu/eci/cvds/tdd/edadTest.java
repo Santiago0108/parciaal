@@ -34,6 +34,11 @@ public class edadTest {
     public void testEsNoMenorNegativo() {
         assertFalse(ageCheker.isMinor(-5));
     }
+
+    @Test
+    public void testEsNoMenorNegativoGrande() {
+        assertFalse(ageCheker.isMinor(-1000));
+    }
 }
 
 
